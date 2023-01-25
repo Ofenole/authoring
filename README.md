@@ -1,17 +1,21 @@
 # authoring
 
 
-## Image
+## Checkboxes
+- [x] Externer Link
+- [x] Interner Link
+- [x] [Bilder](#bilder)
+- [x] [Emojis](#emojis)
+- [x] [Tabelle](#tabelle)
+
+
+
+## Bilder
 ![Wolf](un-couple-de-loups-alpha.jpg)
 
 ## Github Flavoured Markdown
 
-## Checkboxes
-- [x] Externer Link
-- [x] Interner Link
-- [x] Bilder
-- [x] [Emojis](Emojis)
-- [x] Tabelle
+
 
 
 
