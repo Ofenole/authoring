@@ -3,7 +3,7 @@
 
 ## Checkboxes
 - [x] Externer Link
-- [x] Interner Link
+- [ ] Interner Link
 - [x] [Bilder](#bilder)
 - [x] [Emojis](#emojis)
 - [x] [Tabelle](#tabelle)
